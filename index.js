@@ -5,7 +5,7 @@ function takeANumber (katzDeliLine, newName) {
   return `Welcome, ${newName}. You are number ${katzDeliLine.length} in line.`
 }
 
-let ticket = 0;
+var ticket = 0;
 
 
 function takeANumber (katzDeliLine) {
